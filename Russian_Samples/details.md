@@ -1,0 +1,5 @@
+- conformer based style encoder
+- conformer based duration predictor
+- semantic encoder with RuBert
+- no diffusion sampler right now
+- Not E2E, using (RiFornet)[https://github.com/Respaired/RiFornet_Vocoder] for vocoding.
