@@ -9,3 +9,4 @@
 - around 400-500 hours of data; the data is very complex noisy. but it covers conversational, whisper and a narration.
 - signs of overfitting
 - ~200K steps trained
+- 44.1khz + 128 mel bins
