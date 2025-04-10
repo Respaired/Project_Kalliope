@@ -4,6 +4,6 @@
 - no diffusion sampler right now
 - Not E2E, using [RiFornet](https://github.com/Respaired/RiFornet_Vocoder) for vocoding.
 - trained for roughly 200K steps 
-- around ~320 hours of data, covering conversations and high quality narrations.
+- around ~320 hours of data from hundreds of speakers, covering conversations and high quality narrations.
 - roughly less than 200M parameters, very light weight.
 - 44.1khz + 128 mel bins
