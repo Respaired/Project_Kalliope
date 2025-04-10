@@ -1,6 +1,6 @@
 - Conformer-based style encoder
 - Conformer-based duration predictor with cross attention
-- semantic encoder with RuBert
+- semantic encoder with RuModernBERT-base
 - no diffusion sampler right now
 - Not E2E, using [RiFornet](https://github.com/Respaired/RiFornet_Vocoder) for vocoding.
 - trained for roughly 200K steps 
