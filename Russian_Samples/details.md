@@ -2,5 +2,8 @@
 - Conformer-based duration predictor with cross attention
 - semantic encoder with RuBert
 - no diffusion sampler right now
-- Not E2E, using (RiFornet)[https://github.com/Respaired/RiFornet_Vocoder] for vocoding.
+- Not E2E, using [RiFornet](https://github.com/Respaired/RiFornet_Vocoder) for vocoding.
 - trained for roughly 200K steps 
+- around ~320 hours of data, covering conversations and high quality narrations.
+- roughly less than 200M parameters, very light weight.
+- 44.1khz + 128 mel bins
